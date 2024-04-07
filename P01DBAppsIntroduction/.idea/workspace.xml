@@ -5,21 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aedf8f3-e7da-4a0a-9e33-4adddddaa13c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DatabaseToolDbSqlDialect.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DatabaseToolSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/P01DBAppsIntroduction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SqlFileSource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01GringottsDatabase.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
@@ -178,7 +163,7 @@
       <workItem from="1708892993709" duration="109000" />
       <workItem from="1711916719098" duration="47000" />
       <workItem from="1711916780146" duration="10000" />
-      <workItem from="1712518268586" duration="1770000" />
+      <workItem from="1712518268586" duration="2483000" />
     </task>
     <servers />
   </component>
