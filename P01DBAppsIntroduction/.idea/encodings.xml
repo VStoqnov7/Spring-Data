@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P02DBAppsIntroductionExercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P02DBAppsIntroductionExercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P03ORMFundamentals/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P03ORMFundamentals/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P04WorkshopCustomORM/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P04WorkshopCustomORM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P05IntroductionToHibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P05IntroductionToHibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P07HibernateCodeFirst/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P07HibernateCodeFirst/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P01GringottsDatabaseEntities/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P01GringottsDatabaseEntities/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P08HibernateCodeFirstExercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P08HibernateCodeFirstExercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P09SpringDataIntro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../P09SpringDataIntro/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

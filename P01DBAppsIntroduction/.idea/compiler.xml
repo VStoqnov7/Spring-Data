@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="P05IntroductionToHibernate" />
+        <module name="P04WorkshopCustomORM" />
+        <module name="P03ORMFundamentals" />
+        <module name="P02DBAppsIntroductionExercise" />
+        <module name="introtohibernate" />
+        <module name="P07HibernateCodeFirst" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="P01GringottsDatabase" target="16" />
+      <module name="P01GringottsDatabaseEntities" target="16" />
+      <module name="P08HibernateCodeFirstExercise" target="16" />
+      <module name="P09SpringDataIntro" target="1.5" />
+      <module name="untitled" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="P09SpringDataIntro" options="" />
+    </option>
+  </component>
+</project>

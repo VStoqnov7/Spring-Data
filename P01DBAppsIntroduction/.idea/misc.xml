@@ -1,0 +1,28 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/pom.xml" />
+        <option value="$PROJECT_DIR$/../P03ORMFundamentals/pom.xml" />
+        <option value="$PROJECT_DIR$/../P04WorkshopCustomORM/pom.xml" />
+        <option value="$PROJECT_DIR$/../P05IntroductionToHibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/../P06IntroductionToHibernateExercise/pom.xml" />
+        <option value="$PROJECT_DIR$/../P07HibernateCodeFirst/pom.xml" />
+        <option value="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/pom.xml" />
+        <option value="$PROJECT_DIR$/../P09SpringDataIntro/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P01GringottsDatabase/pom.xml" />
+        <option value="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P01GringottsDatabaseEntities/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="corretto-17 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
