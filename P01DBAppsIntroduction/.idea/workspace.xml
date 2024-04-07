@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aedf8f3-e7da-4a0a-9e33-4adddddaa13c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/minions_db/minions_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02DBAppsIntroductionExercise/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
@@ -49,7 +59,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "16",
-    "last_opened_file_path": "C:/GitHub/Spring-Data/mysql-connector-java-8.0.27/mysql-connector-java-8.0.27.jar",
+    "last_opened_file_path": "C:/GitHub/Spring-Data/P02DBAppsIntroductionExercise",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -163,7 +173,7 @@
       <workItem from="1708892993709" duration="109000" />
       <workItem from="1711916719098" duration="47000" />
       <workItem from="1711916780146" duration="10000" />
-      <workItem from="1712518268586" duration="2483000" />
+      <workItem from="1712518268586" duration="2675000" />
     </task>
     <servers />
   </component>
