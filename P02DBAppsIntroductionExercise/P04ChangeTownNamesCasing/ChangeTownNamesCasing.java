@@ -4,7 +4,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Scanner;
-import Utils.Utils;
 
 public class ChangeTownNamesCasing {
     private static final String UPDATE_TOWN_NAME = "UPDATE `towns` SET `name` = UPPER(`name`) WHERE `country` = ?";

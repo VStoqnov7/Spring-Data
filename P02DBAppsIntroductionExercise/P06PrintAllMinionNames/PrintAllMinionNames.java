@@ -4,7 +4,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-import Utils.Utils;
 
 public class PrintAllMinionNames {
     private static final String GET_ALL_MINIONS = "SELECT `name` FROM `minions`";

@@ -3,7 +3,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
-import Utils.Utils;
 
 public class RemoveVillain {
     private static final String GET_VILLAIN_BY_ID = "SELECT v.`name` FROM `villains` AS v WHERE `id` = ?";

@@ -65,7 +65,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IncreaseMinionsAge">
+  <component name="RunManager" selected="Application.GetVillainsNames">
     <configuration name="GetMinionNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GetMinionNames" />
       <module name="P02DBAppsIntroductionExercise" />
@@ -103,10 +103,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetVillainsNames" />
         <item itemvalue="Application.IncreaseMinionsAge" />
         <item itemvalue="Application.IncreaseAgeStoredProcedure" />
         <item itemvalue="Application.GetMinionNames" />
-        <item itemvalue="Application.GetVillainsNames" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

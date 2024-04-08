@@ -3,7 +3,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
-import Utils.Utils;
 
 public class AddMinion {
     private static final String GET_TOWN_BY_NAME = "SELECT t.`id` FROM `towns` AS t WHERE t.`name` = ?";
