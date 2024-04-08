@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1910a9b1-9571-447e-9760-0d9851a850c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P04ChangeTownNamesCasing/ChangeTownNamesCasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P05RemoveVillain/RemoveVillain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +116,7 @@
       <workItem from="1711916766589" duration="13000" />
       <workItem from="1711916850577" duration="22000" />
       <workItem from="1712525419254" duration="866000" />
-      <workItem from="1712610809506" duration="21000" />
+      <workItem from="1712610809506" duration="81000" />
     </task>
     <servers />
   </component>
