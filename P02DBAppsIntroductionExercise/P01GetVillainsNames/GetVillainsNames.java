@@ -14,7 +14,7 @@ public class GetVillainsNames {
             "ON v.`id` = mv.`villain_id`\n" +
             "GROUP BY mv.`villain_id`\n" +
             "HAVING `minions_count` > ?\n" +
-            "ORDER BY `minions_count`;";
+            "ORDER BY `minions_count`";
     private static final String COLUMN_LABEL_NAME = "name";
     private static final String COLUMN_LABEL_MINIONS_COUNT = "minions_count";
     private static final String PRINT_FORMAT = "%s %d";

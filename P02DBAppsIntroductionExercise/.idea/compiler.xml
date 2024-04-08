@@ -9,5 +9,8 @@
         <module name="P02DBAppsIntroductionExercise" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="P01DBAppsIntroduction" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>

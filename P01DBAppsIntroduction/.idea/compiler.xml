@@ -7,17 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="introtohibernate" />
         <module name="P05IntroductionToHibernate" />
         <module name="P04WorkshopCustomORM" />
-        <module name="P03ORMFundamentals" />
-        <module name="P02DBAppsIntroductionExercise" />
-        <module name="introtohibernate" />
         <module name="P07HibernateCodeFirst" />
+        <module name="P03ORMFundamentals" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="P01GringottsDatabase" target="16" />
       <module name="P01GringottsDatabaseEntities" target="16" />
+      <module name="P02DBAppsIntroductionExercise" target="16" />
       <module name="P08HibernateCodeFirstExercise" target="16" />
       <module name="P09SpringDataIntro" target="1.5" />
       <module name="untitled" target="16" />
