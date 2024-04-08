@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/P05RemoveVillain" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/P06PrintAllMinionNames" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/P07IncreaseMinionsAge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P08IncreaseAgeStoredProcedure" isTestSource="false" />
     </content>
   </component>
 </module>
