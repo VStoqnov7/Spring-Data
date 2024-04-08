@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../P01DBAppsIntroduction/P01DBAppsIntroduction.iml" filepath="$PROJECT_DIR$/../P01DBAppsIntroduction/P01DBAppsIntroduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/P02DBAppsIntroductionExercise.iml" filepath="$PROJECT_DIR$/.idea/P02DBAppsIntroductionExercise.iml" />
     </modules>
   </component>
