@@ -3,9 +3,7 @@ import jakarta.persistence.*;
 import java.util.Scanner;
 
 public class P02ContainsEmployee {
-
     private static final String SELECT_CONTAIN_EMPLOYEE = "SELECT COUNT(e) FROM Employee AS e WHERE e.firstName = :firstName AND e.lastName = :lastName";
-
     public static void main(String[] args) {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("soft_uni_hibernate");
         EntityManager em = emf.createEntityManager();
