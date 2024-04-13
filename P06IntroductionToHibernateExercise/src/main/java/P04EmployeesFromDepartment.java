@@ -29,8 +29,5 @@ public class P04EmployeesFromDepartment {
 
         em.close();
         emf.close();
-
-
-
     }
 }
