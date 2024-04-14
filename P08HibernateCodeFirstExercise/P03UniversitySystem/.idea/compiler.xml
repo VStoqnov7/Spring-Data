@@ -2,20 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="P01GringottsDatabase" />
-        <module name="P02SalesDatabase" />
+        <module name="P03UniversitySystem" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="P03UniversitySystem" target="16" />
-      <module name="P04HospitalDatabase" target="16" />
-      <module name="P05BillsPaymentSystem" target="16" />
-      <module name="P06FootballBettingDatabase" target="16" />
-    </bytecodeTargetLevel>
   </component>
 </project>

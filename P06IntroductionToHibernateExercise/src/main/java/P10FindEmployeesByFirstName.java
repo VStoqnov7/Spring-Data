@@ -26,5 +26,6 @@ public class P10FindEmployeesByFirstName {
 
         em.close();
         emf.close();
+
     }
 }

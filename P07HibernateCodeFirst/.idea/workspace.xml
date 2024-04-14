@@ -8,6 +8,21 @@
       <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P06IntroductionToHibernateExercise/src/main/java/P10FindEmployeesByFirstName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P06IntroductionToHibernateExercise/src/main/java/P10FindEmployeesByFirstName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/P08HibernateCodeFirstExercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P01GringottsDatabase/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P01GringottsDatabase/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P01GringottsDatabase/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P01GringottsDatabase/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P02SalesDatabase/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P02SalesDatabase/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P02SalesDatabase/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P08HibernateCodeFirstExercise/P02SalesDatabase/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/GitHub/Spring-Data/P08HibernateCodeFirstExercise",
+    "last_opened_file_path": "C:/GitHub/Spring-Data/P06IntroductionToHibernateExercise",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,6 +68,7 @@
       <workItem from="1712996499881" duration="251000" />
       <workItem from="1712996782738" duration="69000" />
       <workItem from="1713048726470" duration="95000" />
+      <workItem from="1713129905113" duration="107000" />
     </task>
     <servers />
   </component>
