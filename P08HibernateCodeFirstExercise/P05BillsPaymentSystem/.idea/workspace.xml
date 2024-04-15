@@ -34,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/GitHub/Spring-Data/P08HibernateCodeFirstExercise/P04HospitalDatabase",
+    "last_opened_file_path": "C:/GitHub/Spring-Data/P08HibernateCodeFirstExercise/P06FootballBettingDatabase",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -48,6 +48,7 @@
       <updated>1708650588772</updated>
       <workItem from="1711916985765" duration="12000" />
       <workItem from="1713218508050" duration="8000" />
+      <workItem from="1713218531486" duration="86000" />
     </task>
     <servers />
   </component>
