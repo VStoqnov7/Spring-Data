@@ -61,4 +61,14 @@ public class Customer {
     public void setSales(List<Sale> sales) {
         this.sales = sales;
     }
+
+
+
+
+
+
+
+
+
+
 }
