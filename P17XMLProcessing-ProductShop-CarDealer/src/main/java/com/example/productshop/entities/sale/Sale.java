@@ -52,13 +52,4 @@ public class Sale {
     public void setDiscountPercentage(int discountPercentage) {
         this.discountPercentage = discountPercentage;
     }
-
-
-
-
-
-
-
-
-
 }
