@@ -38,12 +38,4 @@ public class Category {
     public void setName(String name) {
         this.name = name;
     }
-
-
-
-
-
-
-
-
 }
