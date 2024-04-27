@@ -88,14 +88,4 @@ public class Product {
     public void setCategories(Set<Category> categories) {
         this.categories = categories;
     }
-
-
-
-
-
-
-
-
-
-
 }
