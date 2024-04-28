@@ -52,11 +52,4 @@ public class Supplier {
     public void setParts(List<Part> parts) {
         this.parts = parts;
     }
-
-
-
-
-
-
-
 }
